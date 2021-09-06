@@ -2,7 +2,7 @@
 
 Who am I:
 - 🏫 I’m a **Student** at ***DigiPen, Singapore***.
-- 💻 I’m a **Technical Lead** at ***Something*** (name pending).
+- 💻 I’m a **Technical Lead** at ***InfoSoft***.
 
 What I'm up to:
 - 🔭 I’m currently working on a game engine called ***Tempest Engine*** (its private!) for a milestone school project.
